@@ -15,6 +15,7 @@ Below are some numerical error values I have been able to note using details.py.
 
 # Graph of final values
 ![Fluid movement graph](cfd.png)
+The graph above shows the fundamental mechanics of fluid-obstacle (structure) interaction against the principle of continuity. It shows that, when presented with an obstacle, uniform fluid flows stagnate and decelerate along the centerline, while simultaneously accelerating to twice the free-stream velocity over the object's vertices.
 
 # When was this made?
 This was originally programmed 6 months ago as of writing this, but has been published today as a result of some backlogs and schoolwork.
