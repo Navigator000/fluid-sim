@@ -13,8 +13,12 @@ Below are some numerical error values I have been able to note using details.py.
 | **Fine (80x80)** | 1.931 | 5.16% |
 | **Ultra-Fine (160x160)** | 1.947 | 3.88% |
 
+# Graph of final values
+![Fluid movement graph](cfd.png)
+
 # When was this made?
 This was originally programmed 6 months ago as of writing this, but has been published today as a result of some backlogs and schoolwork.
 
 # Why was this made?
 This project exists because I wanted to find a gateway into fluid mechanics and understand it more deeply. I hope this simulation does the same for you as well :)
+
